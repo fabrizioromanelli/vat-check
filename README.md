@@ -2,33 +2,7 @@
 This is a small utility to check VAT validity.
 Check VAT validity is responsible for checking validity of VAT in the following countries:
 ```
-IT
-BE 
-BG
-CY
-CZ 
-DK 
-EE 
-FI 
-FR 
-DE 
-GR 
-HU 
-IE 
-AT
-LV 
-LT 
-LU 
-MT 
-NL 
-PL 
-PT 
-RO 
-SK 
-SI 
-ES 
-SE 
-GB
+IT, BE, BG, CY, CZ, DK, EE, FI, FR, DE, GR, HU, IE, AT, LV, LT, LU, MT, NL, PL, PT, RO, SK, SI, ES, SE, GB
 ```
 
 The function is quite simple and accepts a ```countryCode``` and a ```vatNumber``` that should be passed to the function as arguments.
