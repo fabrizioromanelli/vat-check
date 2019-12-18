@@ -1,6 +1,6 @@
 {
   "name": "vat-check",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Check VAT for validity.",
   "main": "vatCheck.js",
   "author": "Fabrizio Romanelli <fabrizio.romanelli@gmail.com> (https://fabrizioromanelli.github.io/)",
