@@ -1,10 +1,28 @@
 {
   "name": "vat-check",
   "version": "0.1.1",
-  "description": "Check VAT for validity",
+  "description": "Check VAT for validity.",
   "main": "vatCheck.js",
-  "author": "Fabrizio Romanelli",
+  "author": "Fabrizio Romanelli <fabrizio.romanelli@gmail.com> (https://fabrizioromanelli.github.io/)",
+  "scripts": {
+    "test": "node test/test"
+  },
   "license": "MIT",
+  "homepage": "https://github.com/fabrizioromanelli/vat-check#readme",
+  "keywords": [
+    "VAT",
+    "VAT check",
+    "VAT validity",
+    "IVA",
+    "controllo IVA",
+    "check IVA",
+    "EU VAT",
+    "VAT EU"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrizioromanelli/vat-check.git"
+  },
   "dependencies": {
     "soap": "^0.30.0"
   }
