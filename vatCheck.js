@@ -12,9 +12,4 @@ const checkVatValidity = async (countryCode, vatNumber) => {
   }
 };
 
-// Usage
-(async () => {
-  let result = await checkVatValidity('IT', '000000000');
-  if (result !== undefined)
-    console.log("Invalid VAT: ", result);
-})();
+module.exports = checkVatValidity;
