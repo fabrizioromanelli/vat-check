@@ -1,0 +1,11 @@
+{
+  "name": "vat-check",
+  "version": "0.1.0",
+  "description": "Check VAT for validity",
+  "main": "vatCheck.js",
+  "author": "Fabrizio Romanelli",
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^0.30.0"
+  }
+}
